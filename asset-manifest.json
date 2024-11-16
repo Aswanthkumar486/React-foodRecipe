@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Aswanthkumar486/React-foodRecipe/static/css/main.936a2bff.chunk.css",
+    "main.js": "/Aswanthkumar486/React-foodRecipe/static/js/main.6810fe37.chunk.js",
+    "main.js.map": "/Aswanthkumar486/React-foodRecipe/static/js/main.6810fe37.chunk.js.map",
+    "runtime-main.js": "/Aswanthkumar486/React-foodRecipe/static/js/runtime-main.785d8d31.js",
+    "runtime-main.js.map": "/Aswanthkumar486/React-foodRecipe/static/js/runtime-main.785d8d31.js.map",
+    "static/js/2.0b9c3b66.chunk.js": "/Aswanthkumar486/React-foodRecipe/static/js/2.0b9c3b66.chunk.js",
+    "static/js/2.0b9c3b66.chunk.js.map": "/Aswanthkumar486/React-foodRecipe/static/js/2.0b9c3b66.chunk.js.map",
+    "static/js/3.de732d37.chunk.js": "/Aswanthkumar486/React-foodRecipe/static/js/3.de732d37.chunk.js",
+    "static/js/3.de732d37.chunk.js.map": "/Aswanthkumar486/React-foodRecipe/static/js/3.de732d37.chunk.js.map",
+    "index.html": "/Aswanthkumar486/React-foodRecipe/index.html",
+    "precache-manifest.f18febb01101436eec3f9cbf94dee9de.js": "/Aswanthkumar486/React-foodRecipe/precache-manifest.f18febb01101436eec3f9cbf94dee9de.js",
+    "service-worker.js": "/Aswanthkumar486/React-foodRecipe/service-worker.js",
+    "static/css/main.936a2bff.chunk.css.map": "/Aswanthkumar486/React-foodRecipe/static/css/main.936a2bff.chunk.css.map",
+    "static/js/2.0b9c3b66.chunk.js.LICENSE.txt": "/Aswanthkumar486/React-foodRecipe/static/js/2.0b9c3b66.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.785d8d31.js",
+    "static/js/2.0b9c3b66.chunk.js",
+    "static/css/main.936a2bff.chunk.css",
+    "static/js/main.6810fe37.chunk.js"
+  ]
+}
